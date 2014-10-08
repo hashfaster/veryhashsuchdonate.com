@@ -1,0 +1,64 @@
+body {
+    /* font-family: "Comic Sans MS", sans-serif; */
+}
+
+.dogefont {
+    font-family: "Oswald", sans-serif;
+}
+
+.header {
+    background-color: #F2EDE0;
+    padding-top: 20px;
+}
+
+.sectionheader {
+    padding-top: 20px;
+}
+
+.title {
+    font-size: 5em;
+    line-height: 1em;
+    margin-bottom: 18px;
+}
+
+.title-desc {
+    padding-top: 8px;
+}
+
+.divider {
+    background-color: #1E4151;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    margin-top: -4px;
+}
+
+.howto {
+    background-color: #F2A51F;
+    padding-bottom: 20px;
+}
+
+.howto a {
+    color: black;
+    text-decoration: none;
+}
+
+.howto a:hover {
+    color: black;
+    text-decoration: underline;
+}
+
+.logo {
+    padding-top: 20px;
+}
+
+.center {
+    text-align: center;
+}
+
+.left {
+    text-align: left;
+}
+
+.right {
+    text-align: right;
+}
